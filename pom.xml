@@ -10,7 +10,7 @@
     </parent>
     <groupId>it.epicode</groupId>
     <artifactId>marsi-flex-be</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.1.0</version>
     <name>marsi-flex-be</name>
     <description>marsi-flex-be</description>
     <url/>
